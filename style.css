@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+    background-color: aqua;
+
+}
+   h1{
+    text-align: center;
+    color: blue;
+   }
+   h2{
+    text-align: center;
+    color: blue;
+   }
+   table{
+    margin-left: 35%;
+    border:3px solid rgb(245, 245, 32);
+    background-color: rgb(225, 255, 0);
+    }
+   header{
+        background-image: linear-gradient(blue,yellow);
+        margin-bottom: 15px;
+        padding: 7px;
+    }
+nav a{
+    color: greenyellow;
+    text-decoration: none;
+    margin: 10px;
+    border-right:3px solid  blueviolet;
+    padding-right: 15px;
+    display: inline-block;
+}
+.navmini{
+   
+   right: 30px;
+   display: inline-block;
+   position: absolute;
+   top: 25px;
+}
+h4{
+  text-align: center;
+  color:rgb(255, 115, 0);
+}
